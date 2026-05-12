@@ -12,7 +12,7 @@
 // --- LCD wiring (ST7789 240x320, software SPI) ---
 #define LCD_MOSI 23
 #define LCD_SCLK 22
-#define LCD_CS   17
+#define LCD_CS   2
 #define LCD_DC   18
 #define LCD_RST  19
 #define LCD_BL   21
